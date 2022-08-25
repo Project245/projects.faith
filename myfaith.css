@@ -1,0 +1,236 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+}
+.navbar{
+    border:1px solid red;
+    display:flex;
+    
+    justify-content:space-between;
+    /* padding:1rem; */
+}
+.ulA{
+    display: flex;
+    margin-left:230px;
+    padding:10px
+}
+.ulA>li{
+list-style: none;
+margin-top: 50px;
+}
+.ulA>li>a{
+    text-decoration: none;
+    color:black;
+    padding:10px;
+   
+}
+
+.EveryText{}
+.TEXTS{
+    
+  
+}
+
+.textconts{
+    /* padding-left:200px; */
+   /* padding-top:35px; */
+    background-color:#BFD6EA;
+    border: 1px solid blue;
+
+}
+.sponsor{
+    /* padding-top:45px; */
+    font-size:35px;
+    text-align: center;
+    color:#012646;
+    font-family: 'Times New Roman', Times, serif;
+   
+
+}
+.sponsortext{
+    font-size:16px;
+    /* border:1px solid black; */
+    /* margin-left:140px; */
+    margin-top:20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:#012626;
+
+}
+.sponsortext>a{
+    color:#012626;
+}
+.sponsorship{
+     /* text-align:center; */
+    
+    background-color:#BFD6EA;
+    /* border:1px solid red; */
+    
+}
+.sponsorcont{
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    padding:1rem 2rem;
+}
+.trips{
+    color:#012626;
+    font-size:26px;
+    padding:20px;
+    /* border: 1px solid red; */
+    text-align:center;
+
+}
+.grade{
+    color:#2F2E2E;
+}
+
+.programpic{
+    background-image:url(faith.jpg);
+    background-size: cover;
+    width:100%;
+    height:400px;
+    object-fit: cover;
+    background-attachment: fixed;
+}
+.pro{
+    text-align: center;
+    font-size: 53px;
+    color:#ffffff;
+    padding-top:150px;
+    font-family: serif;
+}
+.faithtext{
+    text-align:center;
+    margin-top:20px;
+    font-family:serif;
+    font-size:20px;
+    color:#2F2E2E;
+}
+
+
+.missionteams{
+    /* border:1px solid hsl(0, 100%, 50%); */
+    /* padding-left:170px; */
+    /* margin-right:auto; */
+    font-family:'Times New Roman', Times, serif;
+color:#012626;
+
+    
+
+}
+.missioncont{
+    width:1000px;
+padding:1rem 2rem;
+margin-left: auto;
+margin-right: auto;
+
+}
+.mission{
+    color:#012646;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding:20px;
+    font-size: 35px;
+    padding-top:55px;
+}
+
+.schooltext{
+    font-family:'Times New Roman', Times, serif;
+    color:#012626;
+    
+    
+    }
+    .schooltext>a{
+    color:#2F2E2E;
+    justify-content: center;
+    }
+
+
+.trips{
+    /* margin-right:120px; */
+    font-size:35px;
+
+}
+.classtrips{
+/* margin-right: auto; */
+background-color: #BFD6EA;
+/* border:1px solid red; */
+}
+.schoolcont{
+width:1000px;
+padding:1rem 2rem;
+margin-left: auto;
+margin-right: auto;
+
+}
+.learningcont{
+width:800px;
+padding:1rem 2rem;
+margin-left: auto;
+margin-right: auto;
+}
+.faith{
+    color:#012646;
+    font-size:35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.Pics{
+    display: flex;
+    /* padding:1rem 2rem; */
+    /* border: 1px solid red; */
+   justify-content:center;
+}
+.snippicsA{
+    /* border:1px solid red; */
+   
+    padding:1rem 2rem;
+    justify-content: space-evenly;
+}
+.snippicsB{
+    /* border:1px solid red; */
+   
+    padding:1rem 2rem;
+    justify-content: space-evenly;
+
+}
+.Acont{
+    padding:15px;
+}
+.bcont{
+    padding:15px;
+    
+}
+.Ccont{
+    padding:15px;
+    
+}
+.Dcont{
+padding:5px;
+
+}
+.spons{
+    /* border:1px solid red; */
+color:#2F2E2E;
+   
+}
+.sponsa{
+text-align: center;
+}
+.sponsline{
+    justify-content:center;
+    border:1px solid black;
+    padding:3px;
+    border-bottom:none;
+    border-left:none;
+    border-right:none;
+    width:35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.readmore{
+    text-align:center;
+    color:#7D7560;
+    /* border: 1px solid rebeccapurple; */
+}
